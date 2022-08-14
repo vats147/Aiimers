@@ -1,0 +1,58 @@
+git init ( for folder open in git
+
+git add{file_name} // adding file 
+
+conformation file is add or not?
+git status
+
+
+save progress wise ( check point )
+git commit -m "level 1 commit"
+
+
+ignore files(assets,images)
+.gitignore file
+create file .gitignore 
+add name mylog.log
+
+
+git log ( all log )
+
+
+git log --oneline (summery)
+
+git log -1,-2 (last commit)
+
+
+git diff (what are chanes madw)
+
+git difftool{has1 hash 2}
+
+
+gir restore (restore my all files|)
+
+git show head
+
+
+git restore hash --hard(delete all changes)
+
+
+git revert 
+it revert commmit 
+git revert hash
+
+
+Don't want to save and don't delete
+
+git stash (it ignore)
+
+git stash pop
+
+
+git branch movies
+git branch
+git checkout movoies
+
+
+
+git merge movies
